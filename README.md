@@ -7,7 +7,7 @@ Build a Proof-of-Concept to demonstrate how you can make elections, referenda, a
 Prior to the most recent election, many of us had to go through the tedious process of getting our voter IDs done as we had all just turned 18. Even so, a majority of us did not receive our voter IDs in time and we lost out our chance to cast a vote and exercise our constitutional right. We hope to tackle this problem and ease the process of application and issue of voter ID to eligible citizens. 
 
 ### Idea: 
-For our solution to this problem, we will build a decentralised app, using Solidarity for blockchain, which we shall deploy on Microsoft Azure. 
+For our solution to this problem, we will build a decentralised app, using Solidity for blockchain, which we shall deploy on Microsoft Azure. 
 The user would be asked to give their Aadhaar number and scan their fingerprint using the device’s scanner (most smartphones have the fingerprint scanner). This fingerprint would then be checked against the fingerprint stored in UIDAI database. 
 The verification of the eligible citizen would be done using Aadhaar card and biometrics (specifically fingerprints). This will ensure that fake voter IDs are not being issued. 
 Once verified, the voter ID would be issued to the citizen. 
