@@ -1,14 +1,13 @@
 # IWH_codefundo2019
 
 ### Challenge: 
-Build a Proof-of-Concept to demonstrate how you can make elections, referenda, and polls more secure, reliable, and transparent using Azure Blockchain.
+Build a Proof-of-Concept to demonstrate how you can make elections, referenda, and polls more secure, reliable, and transparent using Blockchain.
 
 ### Abstract:
 Prior to the most recent election, many of us had to go through the tedious process of getting our voter IDs done as we had all just turned 18. Even so, a majority of us did not receive our voter IDs in time and we lost out our chance to cast a vote and exercise our constitutional right. We hope to tackle this problem and ease the process of application and issue of voter ID to eligible citizens. 
 
 ### Idea: 
-For our solution to this problem, we will build a decentralised app, using Solidity for blockchain, which we shall deploy on Microsoft Azure. 
-The user would be asked to give their Aadhaar number and scan their fingerprint using the device’s scanner (most smartphones have the fingerprint scanner). This fingerprint would then be checked against the fingerprint stored in UIDAI database. 
+For our solution to this problem, we will build a decentralised app, using Solidity for blockchain. The user would be asked to give their Aadhaar number and scan their fingerprint using the device’s scanner (most smartphones have the fingerprint scanner). This fingerprint would then be checked against the fingerprint stored in UIDAI database. 
 The verification of the eligible citizen would be done using Aadhaar card and biometrics (specifically fingerprints). This will ensure that fake voter IDs are not being issued. 
 Once verified, the voter ID would be issued to the citizen. 
 Another problem that we would be tackling is the mutability(i.e., tendency to change) of the current voter’s list. During the previous election season, it was found that many registered voters had their names missing from the voters' list; this was solely due to the inefficiency of the current system. 
